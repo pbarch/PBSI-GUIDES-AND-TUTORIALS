@@ -1,7 +1,7 @@
 # CNC Milling Hand Off Document
 ## 19540 San Jose Threshold
 
-### Installing BlenderCAM
+### 1) Installing BlenderCAM
 **Note:** The version of BlenderCAM prepared for the studio only works on Linux. Make sure you are using a PBSI computer running in the Linux Operating System.
 
 <!SET UP LINUX DUAL BOOT ON A PBSI COMPUTER LIST WHICH ONE HERE>
@@ -12,10 +12,10 @@ https://3.basecamp.com/3129796/buckets/6027913/messages/3077089290
 Or from the server here:
 <!(PUT BLENDERCAM ON THE SERVER AND PASTE LOCATION HERE) >
 
-### Generating Toolpaths
+### 2) Generating Toolpaths
 
 
-### Basic CNC Operation
+### 3) Basic CNC Operation
 
 #### Start Up Procedure
 
