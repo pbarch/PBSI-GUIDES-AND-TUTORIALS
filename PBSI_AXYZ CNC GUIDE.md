@@ -1,5 +1,4 @@
 # CNC Milling Hand Off Document
-## 19540 San Jose Threshold
 
 ### 1) Installing BlenderCAM
 **Note:** The version of BlenderCAM prepared for the studio only works on Linux. Make sure you are using a PBSI computer running in the Linux Operating System.
